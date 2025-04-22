@@ -20,6 +20,10 @@
 
 <img width="1512" alt="image" src="https://github.com/user-attachments/assets/f483f7c4-35bb-48d0-983d-f49f89886929" />
 <img width="1512" alt="image" src="https://github.com/user-attachments/assets/7b3dfce0-761b-4461-b176-30580e625347" />
+<img width="1512" alt="image" src="https://github.com/user-attachments/assets/a39e0f7a-65c5-4149-8ec2-030b0b0be534" />
+<img width="1512" alt="image" src="https://github.com/user-attachments/assets/e5eee3b2-0198-44af-9021-3b2ba3e4aad5" />
+
+
 
 
 
@@ -49,6 +53,6 @@ npm run serve
 ### Clone the repo
 
 ```
-git clone https://github.com/garud24/RealTime-Weather.git
-cd RealTime-Weather
+git clone https://github.com/garud24/Forecastly.git
+cd Forecastly
 ```
